@@ -113,6 +113,7 @@ footer>h3 {
 @media (max-width:600px) {
     body {
         width: 100%;
+        position: fixed;
         /* height: 100%; */
     }
 
